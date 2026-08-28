@@ -22,11 +22,6 @@
 
 ━━━━━━━━━━ ★ ━━━━━━━━━━━
 
-
-<h2 align="left">Play games with me</h2>
-
-###
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -41,9 +36,6 @@
     src="https://raw.githubusercontent.com/cindyadillaa/cindyadillaa/output/pacman-contribution-graph.svg"
   />
 </picture>
-
-###
-
 </div>
 
 <br>
