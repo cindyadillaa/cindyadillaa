@@ -2,7 +2,7 @@
 
 <img src="img/foto.jpg" width="700" alt="Mitski">
 
-### informatics student · developer · data enthusiast
+### building things with flutter learning along the way
 
 <br>
 
